@@ -16,7 +16,7 @@ int main()
 		scanf("%d%d", &r2, &k2);
 
 		if (k1 != r2)
-			printf("Cannot multiple matrices of given dimensions.\n");
+			printf("Cannot multiply matrices of given dimensions.\n");
 
 		else {
 
